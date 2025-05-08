@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-marilith
+  x-cortex-tag: monster-marilith
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: fiend
+    challenge_rating: 16
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
