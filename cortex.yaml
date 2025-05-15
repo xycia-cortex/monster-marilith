@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-marilith
+  x-cortex-tag: monster-marilith
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: construct
+    challenge_rating: 6
+    legendary: false
+    armor_class: 16
+    hit_points: 63
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-marilith
+      alias: github-token-test
